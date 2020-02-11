@@ -53,6 +53,6 @@ waypoints[0]["name"] = "not a real place"
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
 
-for dict in waypoints:
-    for k, v in dict.items():
-        print(v)
+for i in waypoints:
+
+    print(i)
