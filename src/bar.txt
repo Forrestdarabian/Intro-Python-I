@@ -1,0 +1,3 @@
+Hello there! I hope this works.
+Python is fun yet challenging.
+Goodbye for now! :)
